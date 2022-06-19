@@ -54,16 +54,18 @@ section#menu-principal article {
     margin-top: 20ex;
     margin: 200px 5px;
     background-color: transparent;
-    
+    position: relative;
 }
 .btn-lk img{
-  padding: 1vw;
+    
+  
   background-color: transparent;
-  outline: none;
+  
   border: 2px solid transparent;
-  border-radius: 3px;
-  padding: 20px;
+ 
+  padding: 25px;
   font-weight: bold;
+  
 }
 .btn-borda{
     
@@ -152,7 +154,7 @@ p{
 }
 
 #equipe {
-   
+   position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
